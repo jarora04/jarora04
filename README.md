@@ -36,6 +36,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-arora-790928264)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jatin_a3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%234CAF50?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jarora2)
+
+
+
+
 
 
 
